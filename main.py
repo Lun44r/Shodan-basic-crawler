@@ -2,10 +2,10 @@ import shodan
 
 ### SHODAN API
 
-SHODAN_API = 'jAKAyw8I8oGvRnrJJUmL5uuQuZpn5x82'
+SHODAN_API = 'YOUR_API_HERE'
 api = shodan.Shodan(SHODAN_API)
 
-### BANNER
+### LAUNCH PROGRAM
 print('''
    _____ _    _  ____  _____          _   _    _____ _____       __          ___      ______ _____  
   / ____| |  | |/ __ \|  __ \   /\   | \ | |  / ____|  __ \     /\ \        / / |    |  ____|  __ \ 
